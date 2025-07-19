@@ -26,3 +26,9 @@ sudo systemctl start mongod
 node server.js
 node client.js(diff terminal)
 ```
+
+### Photos
+<img width="1127" height="649" alt="image" src="https://github.com/user-attachments/assets/e43348ac-6770-4c9e-8294-927f489d94ac" />
+<img width="688" height="195" alt="image" src="https://github.com/user-attachments/assets/065d924d-6e25-4653-92ad-cec301baec28" />
+
+
